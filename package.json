@@ -21,6 +21,10 @@
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@mantine/core": "^5.1.6",
+    "@mantine/hooks": "^5.1.6",
+    "zustand": "^4.1.0"
+  },
   "packageManager": "npm@8.11.0"
 }
